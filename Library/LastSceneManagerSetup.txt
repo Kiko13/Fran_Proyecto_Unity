@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Juego_Bola/Juego.unity
+  isLoaded: 1
+  isActive: 1
